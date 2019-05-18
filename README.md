@@ -1,5 +1,5 @@
 # Simple-Brute-Force
-simple .netcore brute force attack with a few conditions
+simple .netcore brute force attack with a few conditions. Assuming the text file is generated before hand, the run time for cracking the password in this case was under 1s 
 
 This was for an assessment. The aims of this console application was:
 
