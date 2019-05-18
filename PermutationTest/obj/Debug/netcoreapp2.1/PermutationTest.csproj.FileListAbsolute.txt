@@ -1,0 +1,11 @@
+c:\users\donio\source\repos\PermutationTest\PermutationTest\bin\Debug\netcoreapp2.1\PermutationTest.deps.json
+c:\users\donio\source\repos\PermutationTest\PermutationTest\bin\Debug\netcoreapp2.1\PermutationTest.runtimeconfig.json
+c:\users\donio\source\repos\PermutationTest\PermutationTest\bin\Debug\netcoreapp2.1\PermutationTest.runtimeconfig.dev.json
+c:\users\donio\source\repos\PermutationTest\PermutationTest\bin\Debug\netcoreapp2.1\PermutationTest.dll
+c:\users\donio\source\repos\PermutationTest\PermutationTest\bin\Debug\netcoreapp2.1\PermutationTest.pdb
+c:\users\donio\source\repos\PermutationTest\PermutationTest\obj\Debug\netcoreapp2.1\PermutationTest.csprojAssemblyReference.cache
+c:\users\donio\source\repos\PermutationTest\PermutationTest\obj\Debug\netcoreapp2.1\PermutationTest.csproj.CoreCompileInputs.cache
+c:\users\donio\source\repos\PermutationTest\PermutationTest\obj\Debug\netcoreapp2.1\PermutationTest.AssemblyInfoInputs.cache
+c:\users\donio\source\repos\PermutationTest\PermutationTest\obj\Debug\netcoreapp2.1\PermutationTest.AssemblyInfo.cs
+c:\users\donio\source\repos\PermutationTest\PermutationTest\obj\Debug\netcoreapp2.1\PermutationTest.dll
+c:\users\donio\source\repos\PermutationTest\PermutationTest\obj\Debug\netcoreapp2.1\PermutationTest.pdb
