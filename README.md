@@ -1,5 +1,7 @@
 # Simple-Brute-Force
-simple .netcore brute force attack with a few conditions. Assuming the text file is generated before hand, the run time for cracking the password in this case (only ~1200 possible password combinations) was around 0.5 seconds.
+simple .netcore brute force attack with a few conditions. 
+
++ Assuming the text file is generated before hand, the run time for cracking the password in this case (only ~1200 possible password combinations) was around 0.5 seconds.
 
 This was for an assessment. The aims of this console application was:
 
